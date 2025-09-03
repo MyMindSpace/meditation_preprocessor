@@ -1,0 +1,140 @@
+[
+  {
+    "userId": "user_7654321",
+    "original_text": "user user_7654321 diagnosed with Anxiety Disorder symptoms: racing thoughts, difficulty concentrating, restlessness, muscle tension timestamp: 2025-08-15T12:30:00Z",
+    "cleaned_text": "user user_7654321 diagnosed with anxiety disorder symptoms racing thoughts difficulty concentrating restlessness muscle tension timestamp 2025-08-15t12 30 00z",
+    "tokens": [
+      "user",
+      "user_7654321",
+      "diagnosed",
+      "anxiety",
+      "disorder",
+      "symptoms",
+      "racing",
+      "thoughts",
+      "difficulty",
+      "concentrating",
+      "restlessness",
+      "muscle",
+      "tension",
+      "timestamp",
+      "2025-08-15t12",
+      "30",
+      "00z"
+    ],
+    "features": {
+      "text_length": 158,
+      "token_count": 17,
+      "severity_score": 1.0,
+      "total_symptom_count": 3,
+      "mental_health_ratio": 0.058823529411764705,
+      "physical_symptoms_ratio": 0.11764705882352941,
+      "symptom_diversity": 3,
+      "has_mental_health_terms": true,
+      "has_physical_symptoms": true
+    }
+  },
+  {
+    "userId": "user_1234567",
+    "original_text": "user user_1234567 diagnosed with ADHD symptoms: difficulty with focus, procrastination, impulsivity, low emotional regulation timestamp: 2025-07-20T09:00:00Z",
+    "cleaned_text": "user user_1234567 diagnosed with adhd symptoms difficulty with focus procrastination impulsivity low emotional regulation timestamp 2025-07-20t09 00 00z",
+    "tokens": [
+      "user",
+      "user_1234567",
+      "diagnosed",
+      "adhd",
+      "symptoms",
+      "difficulty",
+      "focus",
+      "procrastination",
+      "impulsivity",
+      "low",
+      "emotional",
+      "regulation",
+      "timestamp",
+      "2025-07-20t09",
+      "00",
+      "00z"
+    ],
+    "features": {
+      "text_length": 152,
+      "token_count": 16,
+      "severity_score": 1.0,
+      "total_symptom_count": 1,
+      "mental_health_ratio": 0.0625,
+      "physical_symptoms_ratio": 0.0,
+      "symptom_diversity": 1,
+      "has_mental_health_terms": true,
+      "has_physical_symptoms": false
+    }
+  },
+  {
+    "userId": "user_9876543",
+    "original_text": "user user_9876543 diagnosed with Chronic Stress symptoms: fatigue, irritability, sleep disturbances, physical tension timestamp: 2025-08-01T15:45:00Z",
+    "cleaned_text": "user user_9876543 diagnosed with chronic stress symptoms fatigue irritability sleep disturbances physical tension timestamp 2025-08-01t15 45 00z",
+    "tokens": [
+      "user",
+      "user_9876543",
+      "diagnosed",
+      "chronic",
+      "stress",
+      "symptoms",
+      "fatigue",
+      "irritability",
+      "sleep",
+      "disturbances",
+      "physical",
+      "tension",
+      "timestamp",
+      "2025-08-01t15",
+      "45",
+      "00z"
+    ],
+    "features": {
+      "text_length": 144,
+      "token_count": 16,
+      "severity_score": 3.0,
+      "total_symptom_count": 4,
+      "mental_health_ratio": 0.125,
+      "physical_symptoms_ratio": 0.125,
+      "symptom_diversity": 4,
+      "has_mental_health_terms": true,
+      "has_physical_symptoms": true
+    }
+  },
+  {
+    "userId": "user_2468135",
+    "original_text": "user user_2468135 diagnosed with Insomnia symptoms: difficulty falling asleep, waking up frequently, daytime sleepiness timestamp: 2025-09-01T11:00:00Z",
+    "cleaned_text": "user user_2468135 diagnosed with insomnia symptoms difficulty falling asleep waking up frequently daytime sleepiness timestamp 2025-09-01t11 00 00z",
+    "tokens": [
+      "user",
+      "user_2468135",
+      "diagnosed",
+      "insomnia",
+      "symptoms",
+      "difficulty",
+      "falling",
+      "asleep",
+      "waking",
+      "up",
+      "frequently",
+      "daytime",
+      "sleepiness",
+      "timestamp",
+      "2025-09-01t11",
+      "00",
+      "00z"
+    ],
+    "features": {
+      "text_length": 147,
+      "token_count": 17,
+      "severity_score": 1.0,
+      "total_symptom_count": 1,
+      "mental_health_ratio": 0.058823529411764705,
+      "physical_symptoms_ratio": 0.0,
+      "symptom_diversity": 1,
+      "has_mental_health_terms": true,
+      "has_physical_symptoms": false
+    }
+  }
+]

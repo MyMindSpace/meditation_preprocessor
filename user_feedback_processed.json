@@ -1,0 +1,271 @@
+{
+  "generatedAt": "2025-09-03T10:29:59.059172Z",
+  "summary": {
+    "totalUsers": 4,
+    "totalSessions": 4,
+    "overallAvgRating": 4.25
+  },
+  "overall": {
+    "timeSeriesDaily": [
+      {
+        "date": "2025-09-03",
+        "count": 4,
+        "avgRating": 4.25
+      }
+    ]
+  },
+  "perUser": {
+    "user_7654321": {
+      "sessions": 1,
+      "firstFeedback": "2025-09-03T10:00:00+00:00",
+      "lastFeedback": "2025-09-03T10:00:00+00:00",
+      "recentFeedback": [
+        {
+          "timestamp": "2025-09-03T10:00:00+00:00",
+          "rating": 5,
+          "feedbackText": "The guided meditation on stress relief was incredibly helpful. The voice was soothing and the pace was perfect."
+        }
+      ],
+      "avgRating": 5.0,
+      "minRating": 5,
+      "maxRating": 5,
+      "topKeywords": [
+        {
+          "token": "guided",
+          "count": 1
+        },
+        {
+          "token": "helpful",
+          "count": 1
+        },
+        {
+          "token": "incredibly",
+          "count": 1
+        },
+        {
+          "token": "meditation",
+          "count": 1
+        },
+        {
+          "token": "pace",
+          "count": 1
+        },
+        {
+          "token": "perfect",
+          "count": 1
+        },
+        {
+          "token": "relief",
+          "count": 1
+        },
+        {
+          "token": "soothing",
+          "count": 1
+        },
+        {
+          "token": "stress",
+          "count": 1
+        },
+        {
+          "token": "voice",
+          "count": 1
+        }
+      ],
+      "timeSeriesDaily": [
+        {
+          "date": "2025-09-03",
+          "count": 1,
+          "avgRating": 5.0
+        }
+      ]
+    },
+    "user_1234567": {
+      "sessions": 1,
+      "firstFeedback": "2025-09-03T10:05:00+00:00",
+      "lastFeedback": "2025-09-03T10:05:00+00:00",
+      "recentFeedback": [
+        {
+          "timestamp": "2025-09-03T10:05:00+00:00",
+          "rating": 4,
+          "feedbackText": "I liked the session on focus. The audio quality was good, but the background music was a little distracting."
+        }
+      ],
+      "avgRating": 4.0,
+      "minRating": 4,
+      "maxRating": 4,
+      "topKeywords": [
+        {
+          "token": "audio",
+          "count": 1
+        },
+        {
+          "token": "background",
+          "count": 1
+        },
+        {
+          "token": "distracting",
+          "count": 1
+        },
+        {
+          "token": "focus",
+          "count": 1
+        },
+        {
+          "token": "good",
+          "count": 1
+        },
+        {
+          "token": "liked",
+          "count": 1
+        },
+        {
+          "token": "little",
+          "count": 1
+        },
+        {
+          "token": "music",
+          "count": 1
+        },
+        {
+          "token": "quality",
+          "count": 1
+        },
+        {
+          "token": "session",
+          "count": 1
+        }
+      ],
+      "timeSeriesDaily": [
+        {
+          "date": "2025-09-03",
+          "count": 1,
+          "avgRating": 4.0
+        }
+      ]
+    },
+    "user_9876543": {
+      "sessions": 1,
+      "firstFeedback": "2025-09-03T10:10:00+00:00",
+      "lastFeedback": "2025-09-03T10:10:00+00:00",
+      "recentFeedback": [
+        {
+          "timestamp": "2025-09-03T10:10:00+00:00",
+          "rating": 5,
+          "feedbackText": "The posture corrections were spot on. I felt a real difference in my back after the session."
+        }
+      ],
+      "avgRating": 5.0,
+      "minRating": 5,
+      "maxRating": 5,
+      "topKeywords": [
+        {
+          "token": "after",
+          "count": 1
+        },
+        {
+          "token": "back",
+          "count": 1
+        },
+        {
+          "token": "corrections",
+          "count": 1
+        },
+        {
+          "token": "difference",
+          "count": 1
+        },
+        {
+          "token": "felt",
+          "count": 1
+        },
+        {
+          "token": "posture",
+          "count": 1
+        },
+        {
+          "token": "real",
+          "count": 1
+        },
+        {
+          "token": "session",
+          "count": 1
+        },
+        {
+          "token": "spot",
+          "count": 1
+        }
+      ],
+      "timeSeriesDaily": [
+        {
+          "date": "2025-09-03",
+          "count": 1,
+          "avgRating": 5.0
+        }
+      ]
+    },
+    "user_2468135": {
+      "sessions": 1,
+      "firstFeedback": "2025-09-03T10:15:00+00:00",
+      "lastFeedback": "2025-09-03T10:15:00+00:00",
+      "recentFeedback": [
+        {
+          "timestamp": "2025-09-03T10:15:00+00:00",
+          "rating": 3,
+          "feedbackText": "I had trouble with the audio. It cut out a couple of times. The content was good when it worked."
+        }
+      ],
+      "avgRating": 3.0,
+      "minRating": 3,
+      "maxRating": 3,
+      "topKeywords": [
+        {
+          "token": "audio",
+          "count": 1
+        },
+        {
+          "token": "content",
+          "count": 1
+        },
+        {
+          "token": "couple",
+          "count": 1
+        },
+        {
+          "token": "cut",
+          "count": 1
+        },
+        {
+          "token": "good",
+          "count": 1
+        },
+        {
+          "token": "out",
+          "count": 1
+        },
+        {
+          "token": "times",
+          "count": 1
+        },
+        {
+          "token": "trouble",
+          "count": 1
+        },
+        {
+          "token": "when",
+          "count": 1
+        },
+        {
+          "token": "worked",
+          "count": 1
+        }
+      ],
+      "timeSeriesDaily": [
+        {
+          "date": "2025-09-03",
+          "count": 1,
+          "avgRating": 3.0
+        }
+      ]
+    }
+  }
+}

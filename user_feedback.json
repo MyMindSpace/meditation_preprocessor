@@ -1,0 +1,32 @@
+[
+  {
+    "sessionId": "sess_001_1669877200",
+    "userId": "user_7654321",
+    "rating": 5,
+    "feedbackText": "The guided meditation on stress relief was incredibly helpful. The voice was soothing and the pace was perfect.",
+    "timestamp": "2025-09-03T10:00:00Z"
+  },
+  {
+    "sessionId": "sess_002_1669877300",
+    "userId": "user_1234567",
+    "rating": 4,
+    "feedbackText": "I liked the session on focus. The audio quality was good, but the background music was a little distracting.",
+    "timestamp": "2025-09-03T10:05:00Z"
+  },
+  {
+    "sessionId": "sess_003_1669877400",
+    "userId": "user_9876543",
+    "rating": 5,
+    "feedbackText": "The posture corrections were spot on. I felt a real difference in my back after the session.",
+    "timestamp": "2025-09-03T10:10:00Z"
+  },
+  {
+    "sessionId": "sess_004_1669877500",
+    "userId": "user_2468135",
+    "rating": 3,
+    "feedbackText": "I had trouble with the audio. It cut out a couple of times. The content was good when it worked.",
+    "timestamp": "2025-09-03T10:15:00Z"
+  }
+]
+
+
